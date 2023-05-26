@@ -24,8 +24,8 @@ Node modifyTheList(Node head) {
     }
 
     // Creating a new linked list using the modified values
-    Node nw = new Node(list.get(0));
-    Node hd = nw;
+    Node newNode = new Node(list.get(0));
+    Node hd = newNode;
 
     // Traversing the list and create a new node for each value
     for (int i = 1; i < list.size(); i++) {
@@ -35,5 +35,5 @@ Node modifyTheList(Node head) {
     }
 
     hd.next = null; // Updating the last node's next pointer to null
-    return nw; // Returning the modified linked list
+    return newNode; // Returning the modified linked list
 }
