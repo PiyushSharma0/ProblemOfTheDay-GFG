@@ -3,7 +3,8 @@ This Repository will contain the solutions of Problem of the Day Question on Gee
 <br>
 <br>
 
-![image](https://github.com/PiyushSharma0/ProblemOfTheDay-GFG/assets/85157636/93cd6ed1-7ae1-426c-a11e-f6248b64ace2)
+![image](https://github.com/PiyushSharma0/ProblemOfTheDay-GFG/assets/85157636/cfe1b415-416a-45de-ab52-af1fe889b55c)
+
  
 **Heyo! Welcome to This Repository**
 * Here You'll find the solution to the Problem Of The Day.
