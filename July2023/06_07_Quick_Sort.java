@@ -17,7 +17,6 @@ class Solution
     }
     static int partition(int arr[], int low, int high)
     {
-        // Your code here
         int pivot = arr[high];
         int i = low - 1;
         
