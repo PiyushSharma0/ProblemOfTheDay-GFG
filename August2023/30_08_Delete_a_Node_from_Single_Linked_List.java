@@ -1,4 +1,4 @@
-// Link: https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1
+// Link: https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
