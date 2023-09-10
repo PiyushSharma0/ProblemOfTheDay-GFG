@@ -4,6 +4,14 @@
 
 class Solution
 {
+    class Node{
+        int data;
+        Node left, right;
+        Node(int data){
+            this.data = data;
+            left = right = null;
+        }
+    }
     // Create a class variable to keep track of the count
     private int count = 0;
     
