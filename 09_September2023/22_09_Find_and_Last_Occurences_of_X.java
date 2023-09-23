@@ -1,3 +1,7 @@
+// Link: https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+
 import java.util.ArrayList;
 
 class GFG
