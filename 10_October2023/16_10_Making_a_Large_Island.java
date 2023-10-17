@@ -2,6 +2,8 @@
 // Time Complexity: O(n^2)
 // Space Complexity: O(n^2)
 
+import java.util.*;
+
 class Solution {
     public int largestIsland(int N, int[][] grid) {
         int maxIslandSize = 0;
@@ -61,4 +63,6 @@ class Solution {
             size += dfs(grid, row + dir[0], col + dir[1], islandIndex);
         }
         return size;
+    }
+}
    
