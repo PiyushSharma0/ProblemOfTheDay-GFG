@@ -1,5 +1,5 @@
 // Link: https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1#
-// Time Complexity: O(n1 + n2) where n1 and n2 are the number of nodes in the first and second BST respectively
+// Time Complexity: O(n + m) where n and m are the number of nodes in the first and second BST respectively
 // Space Complexity: O(n1 + n2) where n1 and n2 are the number of nodes in the first and second BST respectively
 
 import java.util.HashSet;
