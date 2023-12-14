@@ -1,3 +1,7 @@
+// Link: https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 class Solution {
     public long countWays(int n, int k) {
         // Define the modulo value
