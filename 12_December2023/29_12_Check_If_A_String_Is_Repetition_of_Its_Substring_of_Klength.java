@@ -1,3 +1,7 @@
+// Link: https://www.geeksforgeeks.org/problems/check-if-a-string-is-repetition-of-its-substring-of-k-length3302/1
+// Time Complexity: O(N/K)
+// Space Complexity: O(N/K)
+
 import java.util.HashMap;
 import java.util.Map;
 
